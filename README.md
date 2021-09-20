@@ -1,0 +1,2 @@
+# Schooltask-bibliotek-Svelte
+I den här övningen så vill jag att du bygger ett bibliotek över dina favorit böcker, skivor, filmer, eller något annat valfritt.   Du skall använda minst 3 komponenter. App.svelte, Bibliotek.svelte och sedan tex Bok.svelte, Skiva.svelte eller vad du nu skall ha i ditt bibliotek.  Skapa en json fil som du fetchar som innehåller minst 5 objekt.  Använd json-server som backend.
