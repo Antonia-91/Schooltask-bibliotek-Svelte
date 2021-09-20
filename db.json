@@ -1,19 +1,31 @@
 {
-  "posts": [
+  "movies": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "Gunpowder Milkshake",
+      "type": "Action",
+      "description": "Fartfylld och snygg action med stark inspiration ur serietidningarnas värld. Karen Gillan spelar en lönnmördare som slår tillbaka mot den mystiska organisation som förrådde henne - med hjälp av morsan och andra tuffa, hårt beväpnade kvinnor.",
+      "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/405352/large_c7031a67c36cf5f989f08272bf17849c-action-netflix.jpeg",
+      "points": 4,
+      "checked": false,
+      "id": 1
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Richard Jewell",
+      "type": "Drama",
+      "description": "Clint Eastwoods verklighetsbaserade drama handlar om bombdådet i Atlanta år 1996, och mer specifikt den snälle men naive säkerhetsvakten Richard Jewell. Först hyllades han som en hjälte som räddade många liv, sen vände media sin historia och målade upp Jewell som huvudmisstänkt.",
+      "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/405355/large_c7031a67c36cf5f989f08272bf17849c-jewell.jpeg",
+      "points": 6,
+      "checked": true,
+      "id": 2
+    },
+    {
+      "name": "Love and Monsters",
+      "type": "Sci-fi & fantasy",
+      "description": "Skön mix av monster och romantik i en postapokalyptisk värld. Dylan O'Brien (\"Maze Runner\") spelar den kärlekskranke grabben som trotsar alla faror och ger sig ut på en farlig vandring för att återförenas med en barndomskärlek.",
+      "img": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/405358/large_b26c70f8f2a70fc2a0503bee9f0e985e-monstes.jpeg",
+      "points": 7,
+      "checked": true,
+      "id": 6
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
